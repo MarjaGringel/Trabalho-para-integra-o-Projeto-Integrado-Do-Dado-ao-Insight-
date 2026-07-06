@@ -137,5 +137,9 @@ Gamma (para slides)<br>
 📈 Objetivo Geral<br>
 Demonstrar como dados ambientais podem gerar insights valiosos, apoiar decisões estratégicas e promover desenvolvimento sustentável sem comprometer a integridade dos biomas brasileiros.<br>
 
+## 📄 Slides da Apresentação<br>
+[👉 Clique aqui para abrir os slides em PDF](slides/Do-Dado-ao-Insight.pdf)<br>
+
+
 👤 Autor<br>
 Projeto desenvolvido por Marja Gringel, como parte do trabalho integrado Do Dado ao Insight.
